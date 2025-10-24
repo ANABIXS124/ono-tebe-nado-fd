@@ -311,11 +311,11 @@
   letter-spacing: 0%;
 }
 
-.pone{
+.pone {
   max-width: 670px;
 }
 
-.ptwo{
+.ptwo {
   max-width: 690px;
 }
 /* конец отдела с about */
@@ -331,7 +331,7 @@
 
 
 /* Тут вручную подогнал размеры :/ */
-.footer__menu{
+.footer__menu {
   padding-top: 5px;
   padding-right: 62px;
 }
@@ -363,7 +363,7 @@
 }
 
 
-.addressfooter{
+.addressfooter {
   align-items: flex-start;
   text-underline-offset: 4px;
   display: flex;
