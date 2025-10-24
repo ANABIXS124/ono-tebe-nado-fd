@@ -265,8 +265,7 @@
 .about {
   display: grid;
   grid-template-columns: auto 1fr 1fr;
-  padding: 120px 24px 0px 24px
-
+  padding: 120px 24px 0px 24px;
 }
 
 .about__column {
@@ -295,13 +294,13 @@
   padding: 136px 0 180px 76px;
 }
 
-.about__title{
+.about__title {
   text-transform: uppercase;
   font-size: 40px;
   padding-bottom: 100px;
 }
 
-.about__text{
+.about__text {
   display: flex;
   flex-direction: column;
   font-size: 20px;
